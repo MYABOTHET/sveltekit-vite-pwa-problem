@@ -1,4 +1,5 @@
-import adapter from "svelte-adapter-bun";
+import adapter from "svelte-adapter-bun"; // Bun
+// import adapter from '@sveltejs/adapter-node'; // Node
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
